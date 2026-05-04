@@ -1,5 +1,5 @@
 streamlit
-pycairo
+cairocffi
 pillow
 numpy
 matplotlib
