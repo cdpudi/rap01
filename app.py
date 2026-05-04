@@ -1,5 +1,5 @@
 import streamlit as st
-import cairo
+import cairocffi as cairo
 import numpy as np
 from PIL import Image
 import matplotlib.pyplot as plt
