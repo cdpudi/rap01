@@ -1,0 +1,5 @@
+streamlit
+pycairo
+pillow
+numpy
+matplotlib
